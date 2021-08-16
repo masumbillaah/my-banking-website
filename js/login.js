@@ -4,5 +4,5 @@ document.getElementById('submit-btn').addEventListener('click', function(){
 
     const passField = document.getElementById('user-password');
     const userPass = passField.value;
-    window.location.href = 'boss/banking.html';
+    window.location.href = 'bank/banking.html';
 });
